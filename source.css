@@ -1,4 +1,5 @@
 :root {
+  /*
   --app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
   --app-blur: 6px;
   --app-margin: 24px;
@@ -94,6 +95,7 @@
   --scrollbar-opacity: 0.2;
   --scrollbar-opacity-hover: 0.3;
   --scrollbar-width: 10px;
+  */
 }
 
 .theme-dark,
