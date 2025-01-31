@@ -98,6 +98,7 @@
   */
 }
 
+/*
 .theme-dark,
 .theme-light {
   --background-modifier-hover: rgba(255,255,255,0.075);
@@ -107,6 +108,7 @@
   --text-brand: hsl(var(--accent-hsl));
   --text-link: hsl(var(--accent-hsl));
 }
+*/
 
 /*
  *
@@ -117,6 +119,7 @@ body {
   background-color: transparent;
 }
 
+/*
 .appMount__51fd7 {
   background: var(--app-bg) !important;
   background-repeat: no-repeat !important;
@@ -165,7 +168,7 @@ body {
   box-shadow: var(--popout-shadow);
   backdrop-filter: blur(var(--popout-blur));
 }
-
+*/
 /*
  *
  *  TITLE BAR
