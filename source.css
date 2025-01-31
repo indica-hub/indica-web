@@ -133,7 +133,6 @@ body {
   color: var(--accent-text-color);
 }
 
-/*
 .layers__160d8 {
   margin: calc(var(--app-margin) / 2) var(--app-margin) var(--app-margin) var(--app-margin);
   border-radius: var(--app-radius);
@@ -141,17 +140,14 @@ body {
   z-index: 1;
   backdrop-filter: blur(var(--app-blur));
 }
-*/
-
+/*
 .layers__160d8 {
   margin: var(--app-margin);
   border-radius: var(--app-radius);
   overflow: hidden;
   z-index: 1;
-  
-  /* backdrop-filter: blur(0px); */
   backdrop-filter: blur(var(--app-blur));
-}
+}*/
 
 .typeMacOS__421ed + .app_a3002d .layers__160d8 {
   margin: var(--app-margin);
