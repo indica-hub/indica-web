@@ -256,6 +256,7 @@ body {
 */
 
 /* CHANNELS LIST -> ACTION BUTTONS */
+/*
 .actionButton-2ae9DJ {
   background-color: var(--background-modifier-hover);
   border-radius: var(--list-item-radius);
@@ -266,13 +267,14 @@ body {
 }
 .actionButton-2ae9DJ.actionButtonSelected-2a5GGr {
   background-color: var(--background-modifier-accent);
-}
+}*/
 
 /*
  *
  *  PANELS
  *
  */
+/*
 .panels_c48ade {
   background-color: transparent;
 }
@@ -341,9 +343,10 @@ body {
 .listeningAlong_e0cf27 {
   border-top: none;
   border-bottom-color: var(--background-modifier-accent);
-}
+}*/
 
 /* PANELS -> QUEST */
+/*
 .wrapper__0d616 {
   background-color: transparent !important;
   border-radius: 0;
@@ -382,7 +385,7 @@ body {
 .heroAssetTint__636a2 {
   background-color: transparent !important;
   border-radius: 0;
-}
+}*/
 
 /*
  *
@@ -411,6 +414,7 @@ body {
  *  CHAT AREA
  *
  */
+/*
 .chat_f75fb0,
 .noChannel__01d5c {
   background-color: var(--main-content-color) !important;
@@ -463,13 +467,14 @@ body {
 
 .barButtonBase__0f481 {
   color: var(--accent-text-color);
-}
+}*/
 
 /*
  *
  *  DIRECT MESSAGES
  *
  */
+/*
 .wrapper_cb9592.minimum_cb9592, .wrapper_cb9592.video_cb9592 {
   background-color: transparent;
   box-shadow: var(--popout-header-shadow);
@@ -490,7 +495,7 @@ body {
 
 .border__2f4f7.speaking__2f4f7 {
   box-shadow: inset 0 0 0 2px hsl(var(--accent-hsl)), inset 0 0 0 3px var(--background-secondary);
-}
+}*/
 
 /* DIRECT MESSAGES -> SIDEBAR PROFILE */
 [style].panel_c0bea0 {
